@@ -12,7 +12,7 @@
   </div>
 </div>
 <br>
-- 👋 Hi, I’m @mcagonsi
+- 👋 Hi, I’m Michael Agonsi
 - 👀 I’m interested in music, anime, scifi
 - 🌱 I’m currently learning java, javascript, and express api
 - 💞️ I’m looking to collaborate on any project
