@@ -15,7 +15,6 @@
 - 👋 Hi, I’m Michael Agonsi
 - 👀 I’m interested in music, anime, scifi
 - 🌱 I’m currently learning java, javascript, and express api
-- 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me on linkedin
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: math is all about what exists and what does not.
