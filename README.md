@@ -7,14 +7,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mcagonsi&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak Stats" style="margin-top: 10px;"/>
   </a>
   <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" style="margin-top: 10px;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&layout=compact&theme=dark&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Languages Based on Contributions" style="margin-top: 10px;">
   </a>
   
   <br>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcagonsi&theme=dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcagonsi&theme=dark" alt="Languages Used" style="margin-top: 10px;">
-  </a>
+  
 </div>
 <br>
 
