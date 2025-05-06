@@ -1,42 +1,24 @@
-<h1 align="center" style="color:#ffffff; background-color:#000000; padding: 10px;">Aspiring FullStack Developer | Passionate about Technology and Innovation</h1>
-<div id="header" align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
-  <p style="color:#ffffff; font-size: 1.2em;">Welcome! I'm Michael Agonsi, a dedicated FullStack Developer enthusiastic about creating impactful digital solutions.</p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mcagonsi&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak Stats" style="margin-top: 10px;"/>
-  </a>
-  <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&layout=compact&theme=dark&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Languages Based on Contributions" style="margin-top: 10px;">
-  </a>
-  
-  <br>
-  
-</div>
-<br>
+# 💫 About Me:
+About Me<br>I am a FullStack Developer with a strong focus on building efficient and scalable software solutions. My background includes experience in both frontend and backend development, which allows me to create seamless, integrated web applications.<br><br>Key Skills<br>Backend Development: Proficient in Java, JavaScript, and Express.js for API development.<br>Frontend Development: Knowledgeable in HTML, CSS, and modern JavaScript frameworks.<br>Problem Solving: Passionate about tackling complex challenges and finding creative solutions.<br>Current Focus<br>I am currently expanding my skills in Java, JavaScript, and backend technologies such as Express.js to further enhance my ability to develop complete, robust applications. I am committed to lifelong learning and staying updated with the latest industry trends.<br><br>Connect With Me<br>Visit my Portfolio Website to learn more about my projects and experience.<br>Feel free to connect with me on LinkedIn for professional inquiries or collaborations.<br>I am open to opportunities that allow me to contribute to impactful projects while growing as a developer.
 
-## About Me
-I am a FullStack Developer with a strong focus on building efficient and scalable software solutions. My background includes experience in both frontend and backend development, which allows me to create seamless, integrated web applications.
 
-### Key Skills
-- **Backend Development**: Proficient in Java, JavaScript, and Express.js for API development.
-- **Frontend Development**: Knowledgeable in HTML, CSS, and modern JavaScript frameworks.
-- **Problem Solving**: Passionate about tackling complex challenges and finding creative solutions.
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mcagonsi&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mcagonsi&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcagonsi&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Current Focus
-I am currently expanding my skills in Java, JavaScript, and backend technologies such as Express.js to further enhance my ability to develop complete, robust applications. I am committed to lifelong learning and staying updated with the latest industry trends.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mcagonsi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### Connect With Me
-- Visit my [Portfolio Website](https://michael-agonsi.vercel.app) to learn more about my projects and experience.
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michaelagonsi/) for professional inquiries or collaborations.
-- I am open to opportunities that allow me to contribute to impactful projects while growing as a developer.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Personal Insights
-- **Passions**: Beyond coding, I enjoy music, especially playing the guitar, and I am a fan of anime and science fiction. My favorite anime include *Your Lie in April*, which has inspired my love for both storytelling and technology.
-- **Philosophy**: I believe that mathematics is a tool to understand the boundaries of existence—what is possible and what is not.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mcagonsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!---
-mcagonsi/mcagonsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=mcagonsi&icon=8&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
